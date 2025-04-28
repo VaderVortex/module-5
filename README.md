@@ -23,6 +23,8 @@ To write a C Program to find area of rectangle using pointer.
 	return 0;
 	}
 
+
+
 ## OUTPUT
 ![image](https://github.com/user-attachments/assets/8fe93db3-7427-4f1b-a074-83e5dca9b2cb)
 		       	
@@ -65,6 +67,8 @@ To write a C Program to print 'WELCOME' using malloc() and free().
 	free(str);
 	return 0;
 	}
+
+
 ## OUTPUT
 ![image](https://github.com/user-attachments/assets/d3614f9a-50f9-4698-b3d2-25b27245add6)
 
@@ -170,6 +174,7 @@ To write a C Program to read and store the data of 3 employees and calculate the
 	return 0;
 	}
 
+
 ## OUTPUT
 ![image](https://github.com/user-attachments/assets/5d29b7d7-1a05-4fdc-a4d4-5488fdaf98d0)
 
@@ -178,6 +183,7 @@ To write a C Program to read and store the data of 3 employees and calculate the
 ## RESULT
 Thus the C program to read and store the data of 3 employees and calculate their Gross Salary using the concept of structure
  
+
 
 
 
@@ -219,10 +225,6 @@ Create a C program to calculate the total and average of student using structure
 
     - Set `s[0].total = 374`.
     - Set `s[1].total = 383`.
-
-    > **Note:**  
-    > This step overwrites the computed totals.  
-    > It seems like it's just for testing or hardcoded totals — unnecessary if you’re already calculating them properly.
 
 7. Output Loop (`i = 0 to 1`):
 
